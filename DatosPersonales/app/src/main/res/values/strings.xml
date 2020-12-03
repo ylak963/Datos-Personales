@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DatosPersonales</string>
+    <string name="etiquetaNombre">Nombre</string>
+    <string name="txtNombre"></string>
+    <string name="placeHolderNombre">Introduce su nombre</string>
+    <string name="etiquetaApellidos">Apellidos</string>
+    <string name="txtApellidos"></string>
+    <string name="placeHolderApellidos">Introduce sus apellidos</string>
+    <string name="etiquetaEdad">Edad</string>
+    <string name="txtEdad"></string>
+
+    <string name="etiquetaGenero">Género</string>
+    <string name="radioHombre">Hombre</string>
+    <string name="radioMujer">Mujer</string>
+
+    <string name="etiquetaEstadoCiv">Estado civil</string>
+    <string-array name="comboEstadoCivil">
+        <item>Seleccione uno....</item>
+        <item>Solter@</item>
+        <item>Casad@</item>
+        <item>Separad@</item>
+        <item>Viud@</item>
+        <item>Otr@</item>
+    </string-array>
+
+    <string name="switchHijos">¿Tiene hijos?</string>
+    <string name="txtSi">Si</string>
+    <string name="txtNo">No</string>
+
+    <string name="btnGenerar">Generar</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="lblEtiqueta"></string>
+
+
+</resources>
