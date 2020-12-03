@@ -133,6 +133,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         radioM.setChecked(false);
         comboEstaCiv.setSelection(0);
         switchHijs.setChecked(false);
+        message.setText("");
 
 
     }

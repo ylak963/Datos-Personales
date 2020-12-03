@@ -176,6 +176,7 @@
 
     <Button
         android:id="@+id/buttonGenerar"
+        android:textColor="@color/colorVerde"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btnGenerar"
@@ -188,6 +189,7 @@
 
     <Button
         android:id="@+id/buttonLimpiar"
+        android:textColor="@color/colorRojo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btnLimpiar"
